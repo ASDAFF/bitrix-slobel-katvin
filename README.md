@@ -1,4 +1,6 @@
-bitrix-slobel-katvin
-====================
+SloBel Katvin modules
+=======================
 
-Katvin anonymize
+Katvin anonymize v1.0.0
+
+[Bitrix Marketplace](http://marketplace.1c-bitrix.ru/solutions/slobel.katvin/)
